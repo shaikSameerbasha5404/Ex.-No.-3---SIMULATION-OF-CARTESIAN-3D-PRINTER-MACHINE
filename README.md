@@ -59,6 +59,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![Screenshot (123)](https://github.com/shaikSameerbasha5404/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118707756/644e1f7a-88aa-4826-ab76-de3c67567d9c)
 
 ### Name: Shaik Sameer Basha
 ### Register Number:212222240093
